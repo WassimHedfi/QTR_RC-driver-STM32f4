@@ -1,7 +1,11 @@
 # QTR-RC Sensor Driver(STM32F4) and PID Implementation
 
 This repository provides an implementation of a custom **QTR-RC sensor driver** for the **STM32F4** microcontroller and integrates a **PID (Proportional-Integral-Derivative) controller** to manage motor movement based on sensor data in a line-follower application. This project is noteworthy as it introduces an QTR-RC sensor driver compatible with STM32F4, which is currently unavailable elsewhere.
-<img src="./Figures/sensors.jpg" alt="QTRRC Sensors" width="500"/>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="./Figures/sensors.jpg" alt="QTRRC Sensors" width="200"/>
+  <img src="./Figures/stm.jpeg" alt="Other Sensor" width="200"/>
+</div>
 
 ## Project Structure
 
