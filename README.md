@@ -10,7 +10,7 @@ The repository is organized into the following folders:
    - Contains the implementation of the QTR-RC sensor driver for STM32F4, Successfully tested on STM32F446RE Board.
    - This folder includes essential files for configuring GPIO pins, reading sensor values, and calibrating the sensors.
 
-2. **PID_implementation**
+2. **PID_implementation For Line-follower**
    - Contains the PID controller code responsible for adjusting motor speeds based on sensor input to maintain desired movement patterns.
    - The PID controller calculates error calculations based on sensor feedback, which requires correction to keep the robot on track, enabling smooth and responsive navigation.
    - Includes functions to manage motor speed and directional adjustments based on PID output.
