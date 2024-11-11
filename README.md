@@ -18,7 +18,7 @@ The repository is organized into the following folders:
 ## Key Features
 
 - **Custom QTR-RC Sensor Driver**: A newly developed driver for QTR-RC sensors, specifically tailored for the STM32F4 series.
-- **PID-Controlled Motor Speed Adjustment**: Real-time PID-based adjustments to motor speeds, allowing precise control over robot movement.
+- **PID-Controlled Motor Speed Adjustment for LineFollower Robot**: Real-time PID-based adjustments to motor speeds, allowing precise control over robot movement.
 - **Modular Structure**: Organized into separate modules for sensor interfacing and control logic, making it easy to maintain and expand.
 
 ## File Descriptions
