@@ -7,7 +7,7 @@ This repository provides an implementation of a custom **QTR-RC sensor driver** 
 The repository is organized into the following folders:
 
 1. **QTR_RC_Driver**
-   - Contains the implementation of the QTR-RC sensor driver for STM32F4.
+   - Contains the implementation of the QTR-RC sensor driver for STM32F4, Successfully tested on STM32F446RE Board.
    - This folder includes essential files for configuring GPIO pins, reading sensor values, and calibrating the sensors.
 
 2. **PID_implementation**
